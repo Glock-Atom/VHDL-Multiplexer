@@ -2,7 +2,7 @@
 -- Project: Multiplexer
 -----------------------------------------------------------------
 -- File:   multiplexer_2_1.vhdl 
--- Author: Hamza Tekin
+-- Author: Glock-Atom
 -- Date:   October 13, 2021
 -----------------------------------------------------------------
 -- 2 to 1 Multiplexer
