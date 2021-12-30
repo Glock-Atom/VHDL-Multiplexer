@@ -2,7 +2,7 @@
 -- Project: Multiplexer
 -----------------------------------------------------------------
 -- File:   multiplexer_4_1.vhdl 
--- Author: Hamza Tekin, Harald Fuchs 
+-- Author: Glock-Atom
 -- Date: 19.11.2021
 -----------------------------------------------------------------
 -- 4:1 Multiplexer
