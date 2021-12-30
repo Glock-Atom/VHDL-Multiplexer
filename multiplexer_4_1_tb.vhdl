@@ -2,7 +2,7 @@
 -- Project: Multiplexer
 -----------------------------------------------------------------
 -- File:   multiplexer_4_1_tb.vhdl 
--- Author: Hamza Tekin
+-- Author: Glock-Atom
 -- Date: December 1, 2021  
 -----------------------------------------------------------------
 -- Testbench for 4:1 Multiplexer
